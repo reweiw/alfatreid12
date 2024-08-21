@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="255.99997"
+   height="255.99998"
+   viewBox="0 0 67.733324 67.733329"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="AlfaTrade_favicon.svg"
+   inkscape:export-filename="..\..\..\Program Files\OpenServer\domains\AlfaTrade\img\favicon\AlfaTrade_favicon.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.6819304"
+     inkscape:cx="49.942613"
+     inkscape:cy="88.88596"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:lockguides="false">
+    <sodipodi:guide
+       position="252.82753,-120.08187"
+       orientation="1,0"
+       id="guide408"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="286.69419,-153.94853"
+       orientation="0,-1"
+       id="guide737"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="218.96086,-120.08187"
+       orientation="1,0"
+       id="guide741"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="286.6942,-132.66662"
+       orientation="1,0"
+       id="guide743"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="238.93915,-124.17191"
+       orientation="1,0"
+       id="guide735"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="266.46828,-114.81201"
+       orientation="1,0"
+       id="guide738"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="238.93915,-128.24641"
+       orientation="0,-1"
+       id="guide740"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="247.67548,-179.65229"
+       orientation="0,-1"
+       id="guide742"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(218.96087,187.8152)">
+    <g
+       id="g811"
+       inkscape:export-filename="..\..\..\Program Files\OpenServer\domains\AlfaTrade\img\favicon\g811.svg"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192">
+      <g
+         id="g549-2-5"
+         transform="translate(-74.346599,-114.06838)">
+        <rect
+           style="fill:#ff2a2a;fill-rule:evenodd;stroke-width:49.9999;stroke-linejoin:bevel;stroke-miterlimit:1000;stroke-dasharray:49.9999, 49.9999;stroke-dashoffset:400;paint-order:markers fill stroke"
+           id="rect462-1-2"
+           width="67.73333"
+           height="67.73333"
+           x="-144.61426"
+           y="-73.746819"
+           ry="1.7531263e-13" />
+      </g>
+      <path
+         d="m -198.98257,-179.65065 c -1.44733,0.0278 -2.86402,0.42185 -4.11782,1.14535 -2.65105,1.53049 -4.28409,4.35902 -4.28391,7.42 h 0.002 v 42.84053 h 5.71189 v -14.2798 h 5.71188 v 14.2798 h 5.71189 v -42.84053 h -0.002 c 1.8e-4,-3.06098 -1.63286,-5.88951 -4.28392,-7.42 -1.35137,-0.77983 -2.89005,-1.17586 -4.45001,-1.14535 z m 0,5.71568 c 0.55675,-0.0327 1.1109,0.0983 1.59407,0.37683 0.88351,0.51009 1.42783,1.45273 1.42797,2.47292 h 0.002 v 22.84881 h -5.71189 v -22.84881 h -0.002 c 1.5e-4,-1.02019 0.54447,-1.96283 1.42798,-2.47292 0.38552,-0.22219 0.81763,-0.35124 1.26187,-0.37683 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:124.145;stroke-linejoin:bevel;stroke-miterlimit:1000;stroke-dasharray:124.145, 124.145;stroke-dashoffset:993.161;paint-order:markers fill stroke"
+         id="path586-0" />
+      <path
+         d="m -180.02127,-179.65065 v 5.71188 h 5.71188 v 45.69524 h 5.71189 v -45.69524 h 5.71189 v -5.71188 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:124.145;stroke-linejoin:bevel;stroke-miterlimit:1000;stroke-dasharray:124.145, 124.145;stroke-dashoffset:993.161;paint-order:markers fill stroke"
+         id="path609-1" />
+    </g>
+  </g>
+</svg>
