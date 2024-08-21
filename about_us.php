@@ -23,6 +23,10 @@
 	</head>
 
 	<body>
+		<script type="text/javascript" src="highlight.js"></script>
+		<script type="text/javascript">
+			hljs.initHighlightingOnLoad('html', 'css');
+		</script>
 		<header class="header" >
 		
 		    <div class="iconMenu">
