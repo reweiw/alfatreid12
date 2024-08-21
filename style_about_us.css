@@ -1,0 +1,95 @@
+@charset "utf-8";
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+
+::selection {background: #6accd7; color: #fff;}
+::-moz-selection {background:#6accd7; color: #fff;}
+
+
+.o_firme {
+	display: grid;
+	flex-wrap: nowrap;
+	flex-direction: colomn;
+	justify-content: center;
+	flex-grow: 2;
+	
+	padding: 0px 20px;
+	padding-top: 92px;
+	
+	/*font-family: sans-serif;*/
+	font-family: arial;
+	
+	font-size: calc(1.7em - 0.4vw);
+	font-weight: normal;
+	text-align: left;
+	
+	transition: 1s;
+}
+
+
+#about_as{
+	margin-top: 10px;
+	margin-bottom: 30px;
+	max-width: 44em;
+	hyphens: auto;
+}
+
+#work{
+	margin-bottom: 30px;
+	max-width: 44em;
+	hyphens: auto;
+}
+
+
+#requisites{
+	margin-bottom: 30px;
+}
+
+
+#contacts{
+	margin-bottom: 30px;
+	max-width: 15em;
+}
+
+
+#work_schedule{
+	margin-left: 0;
+	margin-bottom: 135px;
+}
+
+
+li {
+	margin-left: 20px;
+	line-height: 32px;
+}
+
+h3{
+	font-size: 1.6em;
+	font-weight: bold;
+}
+
+span {
+	font-size: 1.1em;
+	font-weight: bold;
+	text-indent: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	
+	color: blue;
+}
+
+footer {
+	position: static;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}

@@ -1,0 +1,172 @@
+@charset "utf-8";
+
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+::selection {background: #6accd7; color: #fff;}
+::-moz-selection {background:#6accd7; color: #fff;}
+
+::-webkit-scrollbar {
+	display: none;
+	width: 0 !important;
+	-ms-overflow-style: none;		
+}
+
+html{
+	scrollbar-width: none;
+}
+body {
+	height: 100vh;
+	width: 100vw;
+}
+
+.header {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	
+	color: #689AD3;
+	background: #130F0F;
+	top: 0 !important;
+	z-index: 1;
+}
+
+a#href_index:hover, #href_index:focus{
+	color: #B9B9B9;
+}
+
+a#href_about_us:hover, #href_about_us:focus{
+	color: #B9B9B9;
+}
+
+/*мобильная версия*/
+ @media (max-width: 768px){
+	.header {
+		width: 100vw;
+		height: 50px;
+		position: sticky;
+	}
+	
+	svg {
+		image-rendering: -moz-crisp-edges; /* Firefox */
+		-ms-interpolation-mode: nearest-neighbor;  /* IE */
+		image-rendering: crisp-edges; /* Стандартное свойство */
+	}
+	
+	
+	svg #menu{
+	    float: left;
+	    
+	    fill: white;
+        cursor: pointer;
+    }
+	
+	svg #cross{
+	    float: left;
+	    
+	    fill: white;
+        cursor: pointer;
+    }
+	
+	.iconMenu {
+		padding: 2% 2%;
+		border: 1px solid red;
+	}
+	
+    .logo {
+		padding-top: 2%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+    }
+	
+	.logo > a > img {
+		width: 60%;
+		height: auto;
+		image-rendering: -moz-crisp-edges; /* Firefox */
+		-ms-interpolation-mode: nearest-neighbor;  /* IE */
+		image-rendering: crisp-edges; /* Стандартное свойство */
+		border: 1px solid red;
+	}
+	
+	.itemsMenu {
+		display: none;
+		position: absolute;
+		
+		background: #130F0F;
+		opacity: 0.85;
+		
+		text-align: center;
+		margin: 0 auto;
+		margin-top: 50px;
+		
+		list-style: none;
+		
+		width: 100vw;
+		height: 130vh;
+		padding-top: 40px;
+		z-index: 1;
+    }
+	.showitems {
+	    display: block !important;
+	}
+	
+	
+	
+	#href_index {
+		text-decoration: none !important;
+		color: white;
+		font-family: sans-serif;
+		font-size: 1.1em;
+		font-weight: normal;
+		width: 100%;
+		
+        padding-bottom: 20px;
+		
+	}
+	
+	#href_about_us {
+		text-decoration: none !important;
+		color: white;
+		font-family: sans-serif;
+		font-size: 1.1em;
+		font-weight: normal;
+		width: 100%;
+        
+	}
+}
+
+/*PC-версия*/
+@media (min-width: 769px){
+	.header {
+		width: 100vw;
+		height: 70px;
+	}
+	
+    .iconMenu {
+		display: none;
+	}
+	
+	.logo {
+		display: block;
+		float: left;
+		padding-top: 1%;
+		margin-left: 45%;
+		
+		image-rendering: -moz-crisp-edges; /* Firefox */
+		-ms-interpolation-mode: nearest-neighbor;  /* IE */
+		image-rendering: crisp-edges; /* Стандартное свойство */
+    }
+	
+	.logo > a > img {
+		width: 70%;
+		height: auto;
+		border: 1px solid red;
+	}
+	
+	.itemsMenu {
+		display: none;
+    }
+}
